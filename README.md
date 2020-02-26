@@ -1,5 +1,3 @@
-# GraalVM Downloads
+# GraalVM Downloads [![Latest release](https://img.shields.io/github/v/release/graalvm/graalvm-ce-builds?color=brightgreen&label=latest%20release)](https://github.com/graalvm/graalvm-ce-builds/releases/latest)
 
 This repository hosts [GraalVM CE](https://github.com/oracle/graal/) [builds](https://github.com/graalvm/graalvm-ce-builds/releases/) based on OpenJDK.
-
-Current release: [19.3.1](https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-19.3.1).
